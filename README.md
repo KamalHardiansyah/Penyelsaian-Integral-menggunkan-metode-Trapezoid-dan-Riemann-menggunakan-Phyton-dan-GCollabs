@@ -1,2 +1,2 @@
 # Penyelsaian-Integral-menggunkan-metode-Trapezoid-dan-Riemann-menggunakan-Phyton-dan-GCollabs
-Pemrograman untuk menyelesaikan soal integral yang dilampirkan menggunakan Metode Trapezoid dan Metode Riemann dengan software python dan google collabs, dengan memvariasikan n sebagai jumlah grid yaitu 10,100, dan 1000
+Pemrograman untuk menyelesaikan permasalan integral ini menggunakan Metode Trapezoid dan Metode Riemann dengan menggunakan aplikasi atau software python dan google collabs, yang dimana dengan memvariasikan n sebagai jumlah grid yaitu 10,100, dan 1000.
